@@ -2,7 +2,7 @@
 layout: post
 title:  "수학의정석"
 date:   2022-11-14 18:08:39 +00:00
-image: /images/gina-motes.jpg
+image: /images/math.jpg
 categories: research
 course: "Korean SAT"
 author: "Max Cheol-Hui Min"
